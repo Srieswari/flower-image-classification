@@ -8,5 +8,5 @@ So I have developed a model which can perform the image classification task usin
 
 ACCURACY
 
+![image](https://github.com/Srieswari/flower-image-classification/assets/99708903/ca6d07af-0210-442d-b28e-7a0838fca054)
 
-![image](https://github.com/Srieswari/flower-image-classification/assets/99708903/9b9efe4f-abcc-4426-83c4-349a6d5b12d9)
