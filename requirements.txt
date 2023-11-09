@@ -1,0 +1,11 @@
+# prerequisites to be installed in case working loaclly in ur PC
+
+numpy==1.23.5
+matplotlib==3.7.1
+tensorflow==2.14.0
+pandas==1.5.3
+keras==2.14.0
+glob2==0.7
+Pillow==9.4.0
+pathlib==1.0.1
+
