@@ -8,11 +8,18 @@ I have developed a model which can perform the image classification task with CN
 
 # dataset description
 Dataset contains 5 classes of flowers
+
 daisy
+
 dandelion
+
 sunflowers
+
 roses
+
 tuplips
+
+
 
 To reduce the complexity I have normalized the pixels and I have done data augmentation also to avoid the overfitting of the model.At last I have created a dictionary with flower names and care instructions so that the customer can receive information about the flower species and care instructions
 
